@@ -3,4 +3,4 @@
 1.  Download the Project.
 1.  Go to project directory in command Line.
 1.  Run yarn install.
-1.  Run <addr>yarn start</addr>.
+1.  Run <code>yarn start</code>.
